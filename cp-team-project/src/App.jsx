@@ -17,7 +17,7 @@ function App() {
           <h1>Hi maria</h1>
         </div>
         <div>
-          <h1>Get started</h1>
+          <h1>Get started with git push</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
