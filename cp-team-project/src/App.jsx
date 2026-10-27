@@ -17,7 +17,7 @@ function App() {
           <h1>Hi maria welcome</h1>
         </div>
         <div>
-          <h1>Get started with git push not pull</h1>
+          <h1>Get started with git push pull again pull</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
