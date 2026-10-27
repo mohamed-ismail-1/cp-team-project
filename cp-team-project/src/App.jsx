@@ -14,10 +14,10 @@ function App() {
           <img src={heroImg} className="base" width="170" height="179" alt="" />
           <img src={reactLogo} className="framework" alt="React logo" />
           <img src={viteLogo} className="vite" alt="Vite logo" />
-          <h1>Hi maria hello</h1>
+          <h1>Hi maria welcome</h1>
         </div>
         <div>
-          <h1>Get started with git push</h1>
+          <h1>Get started with git push pull</h1>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
